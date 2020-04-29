@@ -20,9 +20,9 @@ The steps of this project are the following:
 [image3]: ./relevant_images/testing_distribution.png "Testing Visualization"
 [image4]: ./test_images/14.jpg "Traffic Sign 5"
 [image5]: ./test_images/11.jpg "Traffic Sign 4"
-[image6]: ./test_images/12.png "Traffic Sign 1"
-[image7]: ./test_images/18.png "Traffic Sign 2"
-[image8]: ./test_images/22.png "Traffic Sign 3"
+[image6]: ./test_images/12.jpg "Traffic Sign 1"
+[image7]: ./test_images/15.jpg "Traffic Sign 2"
+[image8]: ./test_images/18.jpg "Traffic Sign 3"
 [image7]: ./examples/placeholder.png "Traffic Sign 4"
 [image8]: ./examples/placeholder.png "Traffic Sign 5"
 
