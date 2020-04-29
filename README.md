@@ -18,7 +18,7 @@ The steps of this project are the following:
 [image1]: ./relevant_images/training_distribution.png "Training Visualization"
 [image2]: ./relevant_images/validation_distribution.png "Validation Visualization"
 [image3]: ./relevant_images/testing_distribution.png "Testing Visualization"
-[image4]: <img src="./test_images/14.jpg" width="40%">
+[image4]: <./test_images/14.jpg src="./test_images/14.jpg" width="40%">
 [image5]: ./test_images/11.jpg width="200" height="400" "Traffic Sign 4"
 [image6]: ./test_images/12.jpg width="200" height="400" "Traffic Sign 1"
 [image7]: ./test_images/15.jpg width="200" height="400" "Traffic Sign 2"
