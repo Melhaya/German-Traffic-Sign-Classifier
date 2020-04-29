@@ -18,11 +18,11 @@ The steps of this project are the following:
 [image1]: ./relevant_images/training_distribution.png "Training Visualization"
 [image2]: ./relevant_images/validation_distribution.png "Validation Visualization"
 [image3]: ./relevant_images/testing_distribution.png "Testing Visualization"
-[image4]: <./test_images/14.jpg src="./test_images/14.jpg" width="40%">
-[image5]: ./test_images/11.jpg width="200" height="400" "Traffic Sign 4"
-[image6]: ./test_images/12.jpg width="200" height="400" "Traffic Sign 1"
-[image7]: ./test_images/15.jpg width="200" height="400" "Traffic Sign 2"
-[image8]: ./test_images/18.jpg width="200" height="400" "Traffic Sign 3"
+[image4]: ./test_images/14.jpg "Traffic Sign 5"
+[image5]: ./test_images/11.jpg "Traffic Sign 4"
+[image6]: ./test_images/12.jpg "Traffic Sign 1"
+[image7]: ./test_images/15.jpg "Traffic Sign 2"
+[image8]: ./test_images/18.jpg "Traffic Sign 3"
 [image7]: ./examples/placeholder.png "Traffic Sign 4"
 [image8]: ./examples/placeholder.png "Traffic Sign 5"
 
@@ -104,8 +104,11 @@ In the beginning, different approaches were chosen in the hopes of getting the a
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][image4] ![alt text][image5] ![alt text][image6] 
-![alt text][image7] ![alt text][image8]
+![alt text][image4] 
+![alt text][image5] 
+![alt text][image6] 
+![alt text][image7] 
+![alt text][image8]
 
 
 #### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set 
